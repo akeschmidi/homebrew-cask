@@ -1,5 +1,5 @@
 cask 'ticktick' do
-  version '3.3.10,122'
+  version '3.3.10,123'
   sha256 '8620ee3cfe6449f3a99a9a60002706f1cc6ee0ac0951c5c2d05921e3ea612e5c'
 
   # appest-public.s3.amazonaws.com was verified as official when first introduced to the cask
